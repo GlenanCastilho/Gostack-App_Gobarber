@@ -18,15 +18,12 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li>React</li>
-  <li>Typescript</li>
+  <li>React Native</li>
+  <li>React-native-vector-icons</li>
   <li>Axios</li>
+  <li>Unform</li>
   <li>Styled-components</li>
-  <li>Polished</li>
-  <li>React-spring</li>
   <li>Yup</li>
-  <li>Date-fns</li>
-  <li>React-day-picker</li>
 </ul>
 
 <br>
@@ -54,4 +51,5 @@
   Rodar a aplicação:
   <br>
   $ yarn start
+  $ yarn android / yarn ios
 </h4>
